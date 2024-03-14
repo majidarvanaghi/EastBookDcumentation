@@ -1,0 +1,20 @@
+@import 'tailwindcss/base';
+@import './prism.css';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+  [inert] ::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@layer base {
+  @font-face {
+    font-family: 'din';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(../fonts/din.woff2) format('woff2');
+  }
+}
