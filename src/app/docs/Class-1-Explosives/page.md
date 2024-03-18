@@ -6,12 +6,17 @@ nextjs:
     description: International system for classification and labelling of dangerous goods.
 ---
 
-  ![Class 1 - Subclass 1.1: Explosives](/Class-1-1-Explosives.png)
+![IMO Class 1 Explosives](/Class-1-1-Explosives.png)
  
-  ![Class 1 - Subclass 1.1: Explosives](/src/images/Class-1-1-Explosives.png)
+![IMO Class 1 Explosives](/src/images/Class-1-1-Explosives.png)
 
-  ![Class 1 - Subclass 1.1: Explosives](Class-1-1-Explosives.png)
+![IMO Class 1 Explosives](Class-1-1-Explosives.png)
 
+![IMO Class 1 Explosives](./Class-1-1-Explosives.png)
+
+![IMO Class 1 Explosives](../Class-1-1-Explosives.png)
+
+![IMO Class 1 Explosives](/images/Class-1-1-Explosives.png)
 
 ## Subclass 1.1: Explosives
 Consists of explosives that have a mass explosion hazard. A mass explosion is one which affects almost the entire load instantaneously.
