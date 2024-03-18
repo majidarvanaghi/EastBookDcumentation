@@ -7,7 +7,7 @@ import { Button } from '@/components/Button'
 import { HeroBackground } from '@/components/HeroBackground'
 import blurCyanImage from '@/images/blur-cyan.png'
 import blurIndigoImage from '@/images/blur-indigo.png'
-import shipP from '@/images/shipping.jpg'
+import shipP from '@/images/eastbook-doc-pic-1.jpg'
 
 const codeLanguage = 'javascript'
 const code = `export default {
