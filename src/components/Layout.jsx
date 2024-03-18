@@ -14,6 +14,8 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 
 import { DLogo, DLogomark } from '@/components/DLogo'
 
+import LogoW from '@/images/EB-logo-white.png'
+
 function GitHubIcon(props) {
   return (
     <svg aria-hidden="true" viewBox="0 0 16 16" {...props}>
@@ -70,8 +72,19 @@ function Header() {
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
         <Link href="#" className="group" aria-label="EastBook App">
-          <GitHubIcon className=" h-9 w-9 fill-neutral-400 group-hover:fill-neutral-500 dark:group-hover:fill-neutral-300" />
+ 
+        <Image
+                className=" h-8 w-8"
+                src={LogoW}
+                alt=""
+                width={35}
+                height={35}
+                unoptimized
+                priority
+              />
+
         </Link>
+
       </div>
 
     </header>
