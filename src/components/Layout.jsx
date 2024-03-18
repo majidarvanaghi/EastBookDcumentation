@@ -14,8 +14,6 @@ import { ThemeSelector } from '@/components/ThemeSelector'
 
 import { DLogo, DLogomark } from '@/components/DLogo'
 
-import LogoW from '@/images/EB-logo-white.png'
-
 function GitHubIcon(props) {
   return (
     <svg aria-hidden="true" viewBox="0 0 16 16" {...props}>
@@ -75,7 +73,7 @@ function Header() {
  
         <Image
                 className=" h-8 w-8"
-                src={LogoW}
+                src={"@/images/EB-logo-white.png"}
                 alt=""
                 width={35}
                 height={35}
@@ -83,6 +81,7 @@ function Header() {
                 priority
               />
 
+          <GitHubIcon className=" h-8 w-8 fill-neutral-400 group-hover:fill-neutral-500 dark:group-hover:fill-neutral-300" />
         </Link>
 
       </div>
