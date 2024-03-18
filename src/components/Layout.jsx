@@ -70,17 +70,6 @@ function Header() {
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
         <Link href="#" className="group" aria-label="EastBook App">
- 
-        <Image
-                className=" h-8 w-8"
-                src={"@/images/EB-logo-white.png"}
-                alt=""
-                width={35}
-                height={35}
-                unoptimized
-                priority
-              />
-
           <GitHubIcon className=" h-8 w-8 fill-neutral-400 group-hover:fill-neutral-500 dark:group-hover:fill-neutral-300" />
         </Link>
 
