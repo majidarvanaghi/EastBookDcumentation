@@ -14,7 +14,6 @@ nextjs:
 
 ![IMO Class 1 Explosives](./Class-1-1-Explosives.png)
 
-![IMO Class 1 Explosives](../Class-1-1-Explosives.png)
 
 ![IMO Class 1 Explosives](/images/Class-1-1-Explosives.png)
 
