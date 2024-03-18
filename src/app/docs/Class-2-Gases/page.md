@@ -6,6 +6,9 @@ nextjs:
     description: International system for classification and labelling of dangerous goods.
 ---
 
+
+
+
 ## Subclass 2.1 - Flammable Gas
 
 454 kg (1001 lbs) of any material which is a gas at 20°C (68°F) or less and 101.3 kPa (14.7 psi) of pressure (a material which has a boiling point of 20°C (68°F) or less at 101.3 kPa (14.7 psi)) which:
