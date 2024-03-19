@@ -70,7 +70,7 @@ function Header() {
       <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
         <ThemeSelector className="relative z-10" />
         <Link href="#" className="group" aria-label="EastBook App">
-          <GitHubIcon className=" h-8 w-8 fill-neutral-400 group-hover:fill-neutral-500 dark:group-hover:fill-neutral-300" />
+          <GitHubIcon className=" h-6 w-8 fill-neutral-400 group-hover:fill-neutral-500 dark:group-hover:fill-neutral-300" />
         </Link>
 
       </div>
