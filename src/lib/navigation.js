@@ -54,12 +54,20 @@ export const navigation = [
     ],
   },
   {
-    title: 'Pallet Dimensions',
+    title: 'Dimensions',
     links: [
-      { title: 'ISO', href: '/docs/Pallet-ISO' },
-      { title: 'Europe', href: '/docs/Pallete-Europe' },
-      { title: 'North America', href: '/docs/Pallete-North-America' },
-      { title: 'Australia', href: '/docs/Pallete-Australia' },
+      { title: 'Pallet Dimensions', href: '/docs/Pallet-Dimensions' },
+      { title: 'Container Dimensions', href: '/docs/Container-Dimensions' },
+      { title: 'ULD Container Types', href: '/docs/ULD-Container-Types' },
+    ],
+  },
+  {
+    title: 'Reefer Cargo',
+    links: [
+      { title: 'Fresh fruits and vegetables', href: '/docs/#' },
+      { title: 'Chilled meat, fish, dairy and vegetable products', href: '/docs/#' },
+      { title: 'Fresh pastries and honey', href: '/docs/#' },
+      { title: 'Froozen foods', href: '/docs/#' },
     ],
   },
 ]
