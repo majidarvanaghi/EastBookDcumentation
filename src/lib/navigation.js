@@ -64,10 +64,10 @@ export const navigation = [
   {
     title: 'Reefer Cargo',
     links: [
-      { title: 'Fresh fruits and vegetables', href: '/docs/#' },
-      { title: 'Chilled meat, fish, dairy and vegetable products', href: '/docs/#' },
-      { title: 'Fresh pastries and honey', href: '/docs/#' },
-      { title: 'Froozen foods', href: '/docs/#' },
+      { title: 'Fresh Fruits and Vegetables', href: '/docs/Fresh-Fruits-Vegetables' },
+      { title: 'Chilled Meat, Fish, Dairy and Vegetable Products', href: '/docs/Chilled-Meat-Fish-Dairy-Vegetable' },
+      { title: 'Fresh Pastries and Honey', href: '/docs/Fresh-Pastries-Honey' },
+      { title: 'Froozen Foods', href: '/docs/Froozen-Foods' },
     ],
   },
 ]

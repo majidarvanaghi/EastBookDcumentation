@@ -33,61 +33,32 @@ Standard containers are used for all types general cargo (dry cargo).
 
 ---
 
-## 40' HIGH-CUBE
-INSIDE LENGTH: 12.024 m\
-INSIDE WIDTH: 2.350 m\
-INSIDE HEIGHT: 2.697 m\
-DOOR WIDTH: 2.340 m\
-DOOR HEIGHT: 2.597 m\
-CAPACITY: 76 m3\
-TARE WEIGHT: 4020 Kgs\
-MAX CARGO WEIGHT: 26460 Kgs
+## 40' & 45' HIGH-CUBE
 
-#### Description
-High cube sea containers are similar in structure to standard containers, but taller. In contrast to standard containers, which have a maximum height of 2591 mm (8\'6"), high-cube containers are 2896 mm, or 9\'6", tall. High-cube containers are mostly 40\' long, but are sometimes made as 45\' containers.
-
-Many lashing rings, capable of bearing loads of at most 1000 kg, are mounted on the front top-end rail bottom cross member, and the corner posts.
-
-Many 40\' containers have a recess at the front end, which centers the containers on the so-called gooseneck chassis. These recesses allow the containers to lie lower and, therefore, be taller.
-
-#### Usage
-High-cube containers are used for all types general cargo (dry cargo). However, they are particularly suitable for transporting light, voluminous cargoes and overheight cargoes up to a maximum of 2.70 m tall.
-
----
-
-## 45' HIGH-CUBE
-INSIDE LENGTH: 13.556 m\
-INSIDE WIDTH: 2.352 m\
-INSIDE HEIGHT: 2.700 m\
-DOOR WIDTH: 2.340 m\
-DOOR HEIGHT: 2.597 m\
-CAPACITY: 86 m3\
-TARE WEIGHT: 4800 Kgs\
-MAX CARGO WEIGHT: 27700 Kgs\
-
-#### Description
 High-cube containers are similar in structure to standard containers, but taller. In contrast to standard containers, which have a maximum height of 2591 mm (8\'6"), high-cube containers are 2896 mm, or 9\'6", tall. High-cube containers are for the most part 40\' long, but are sometimes made as 45\' containers.
 
 A number of lashing rings, capable of bearing loads of at most 1000 kg, are mounted on the front top end rail and bottom cross member and the corner posts.
 
 Many 40\' containers have a recess in the floor at the front end which serves to center the containers on so-called gooseneck chassis. These recesses allow the containers to lie lower and therefore to be of taller construction.
 
+|   | 40' HIGH-CUBE | 45' HIGH-CUBE |
+| -------- | -------- | ------- |
+|INSIDE LENGTH| 12.024 m|13.556 m|
+|INSIDE WIDTH| 2.350 m| 2.352 m|
+|INSIDE HEIGHT| 2.697 m|2.700 m|
+|DOOR WIDTH| 2.340 m|2.340 m|
+|DOOR HEIGHT| 2.597 m|2.597 m|
+|CAPACITY| 76 m3|86 m3|
+|TARE WEIGHT| 4020 Kgs|4800 Kgs|
+|MAX CARGO WEIGHT| 26460 Kgs|27700 Kgs|
+
 #### Usage
 High-cube containers are used for all types general cargo (dry cargo). However, they are particularly suitable for transporting light, voluminous cargoes and overheight cargoes up to a maximum of 2.70 m tall.\
 
 ---
 
-## 20' OPEN TOP
-INSIDE LENGTH: 5.888 m\
-INSIDE WIDTH: 2.345 m\
-INSIDE HEIGHT: 2.315 m\
-DOOR WIDTH: 2.286 m\
-DOOR HEIGHT: 2.184 m\
-CAPACITY: 32 m3\
-TARE WEIGHT: 2250 Kgs\
-MAX CARGO WEIGHT: 30480 Kgs
+## 20' & 40' OPEN TOP
 
-#### Description
 The walls of open-top containers are generally made of corrugated steel. The floor is made of wood.
 
 It has the following typical distinguishing structural features. The roof consists of removable bows and a removable tarpaulin. The door header may be swivelled out.
@@ -99,40 +70,20 @@ It should be noted, however, that the purpose of the roof bows of an open-top co
 Lashing rings, to which the cargo may be secured, are installed in the upper and lower side rails and the corner posts. The lashing rings may take loads of up to 1,000 kg.
 
 Usual open-top container dimensions are 20' and 40'.
+
+|   | 20' OPEN TOP | 40' OPEN TOP |
+| -------- | -------- | ------- |
+|INSIDE LENGTH| 5.888 m|12.029 m|
+|INSIDE WIDTH| 2.345 m|2.342 m|
+|INSIDE HEIGHT| 2.315 m|2.326 m|
+|DOOR WIDTH| 2.286 m|2.341 m|
+|DOOR HEIGHT| 2.184 m|2.274 m|
+|CAPACITY| 32 m3|65 m3|
+|TARE WEIGHT| 2250 Kgs|3810 Kgs|
+|MAX CARGO WEIGHT| 30480 Kgs|26670 Kgs|
 
 #### Usage
 Open-top containers are used for all types of general cargo (dry cargo). Their principal uses are as follows:
-
-- packing and unpacking from above or through the doors by crane or crab
-- tall cargo
-
----
-
-## 40' OPEN TOP
-INSIDE LENGTH: 12.029 m
-INSIDE WIDTH: 2.342 m
-INSIDE HEIGHT: 2.326 m
-DOOR WIDTH: 2.341 m
-DOOR HEIGHT: 2.274 m
-CAPACITY: 65 m3
-TARE WEIGHT: 3810 Kgs
-MAX CARGO WEIGHT: 26670 Kgs
-
-#### Description
-The walls of open-top containers are generally made of corrugated steel. The floor is made of wood.
-
-It has the following typical distinguishing structural features. The roof consists of removable bows and a removable tarpaulin. The door header may be swivelled out.
-
-These two structural features greatly simplify the process of packing and unpacking the container. In particular, it is very easy to pack and unpack the container from above or through the doors by crane or crab when the roof is open and the door header is swivelled out.
-
-It should be noted, however, that the purpose of the roof bows of an open-top container is not solely to support the tarpaulin but also to contribute to container stability. Flatracks are therefore more suitable for overheight cargoes.
-
-Lashing rings, to which the cargo may be secured, are installed in the upper and lower side rails and the corner posts. The lashing rings may take loads of up to 1,000 kg.
-
-Usual open-top container dimensions are 20' and 40'.
-
-#### Usage
-Open-top containers are used for all types of general container shipping cargo (dry cargo). Their principal uses are as follows:
 
 - packing and unpacking from above or through the doors by crane or crab
 - tall cargo
